@@ -1,7 +1,6 @@
 # Data-Structures
-Εδώ θα βρείτε τους κώδικες από το μάθημα "Δομές Δεδομένων" του 2ου εξαμήνου γραμμένες σε C
-Ο λόγος που ανεβάζω αυτά τα αρχεία είναι επειδή καταλαβαίνω ότι πολλοί συνάδελφοι δυσκολεύονται να καταλάβουν πως λειτουργούν οι δομές
-και θέλω με την σειρά μου να δώσω την δικιά μου ιδέα και οπτική πάνω σε αυτό το μάθημα.
+Here you will find the codes from the course "Data Structures" of the 2nd semester written in C
+The reason I upload these files is because I understand that many colleagues find it difficult to understand how structures work and I want to give my own idea and perspective on this lesson.
 
-DISCLAIMER: Προφανώς και γνωρίζω πως πολλοί από τους κώδικες μπορούσαν να γραφτούν καλύτερα η πως κάποιοι ίσως να μην τρέχουν
-ωστόσο θεωρώ πως μπορούμε να μάθουμε κάτι από όλα αυτά.
+DISCLAIMER: Obviously I know that many of the codes could have been written better or that some might not have run
+however I think we can learn something from all this.
